@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # 🎨 The Cross-Cultural AI Art Studio
@@ -7,7 +9,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Hub-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
-*Built for the Codédex June Project Challenge* 🏆
+https://github.com/user-attachments/assets/d8ce2279-8597-4be7-999b-f0ef8749b80b
 
 </div>
 
